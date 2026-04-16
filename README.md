@@ -34,7 +34,8 @@ ai_resume_screener/
 │   └── resumes.py             ← 3 sample resumes + job description
 │
 └── outputs/
-    └── screening_results.json ← Auto-generated results
+│   └── screening_results.json ← Auto-generated results
+└── Screenshots/               ← Langsmith project_overview 
 ```
 
 ---
